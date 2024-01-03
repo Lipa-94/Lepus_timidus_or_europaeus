@@ -1,0 +1,12 @@
+# Byte-compiled files
+__pycache__
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Tokens
+config.py
+
+# Folders with photos
+hares_photo/
+original_photo_dataset/
